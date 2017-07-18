@@ -1,0 +1,60 @@
+h1 {
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.6em;
+	font-weight: lighter;
+}
+
+h4 {
+	font-size: 1em;
+}
+
+h5 {
+	font-size: 0.5em;
+}
+
+.white-color {
+	color: rgb(255,255,255);
+}
+
+.grey-color {
+	color: rgb(155,155,155);
+}
+
+.red-color {
+	color: rgb(226, 87, 76);
+}
+
+.font-raleway {
+	font-family: 'raleway', sans-serif;
+}
+
+.font-playfair {
+	font-family: 'playfair Display', serif;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style:italic;
+}
+
+.dropshadow {
+	text-shadow:1px 1px #000;
+}
+
+.line-spacing {
+	line-height: 2em;
+}
+
+.text-justified {
+	text-align: center;
+}

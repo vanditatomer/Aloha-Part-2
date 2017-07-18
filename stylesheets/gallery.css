@@ -1,0 +1,65 @@
+.gallery-height {
+	height: 40vh;
+}
+
+.gallery-width-1-2 {
+	width: 50%;
+}
+
+.gallery-width-1 {
+	width: 100%;
+}
+
+.mens {
+	background: 
+	linear-gradient(
+		rgba(0,0,0,0.2),
+		rgba(0,0,0,0.2)),
+	url("../assets/mens-category.jpg")no-repeat;
+	background-size:cover;	
+}
+
+.trends {
+	background: 
+	linear-gradient(
+		rgba(0,0,0,0.2),
+		rgba(0,0,0,0.2)),
+	url("../assets/trends-category.jpg")no-repeat;
+	background-size:cover;
+}
+
+.glasses {
+	background: 
+	linear-gradient(
+		rgba(0,0,0,0.2),
+		rgba(0,0,0,0.2)),
+	url("../assets/glasses-category.jpg")no-repeat;
+	background-size:cover;
+}
+
+.sale {
+	background: 
+	linear-gradient(
+		rgba(0,0,0,0.2),
+		rgba(0,0,0,0.2)),
+	url("../assets/sale-category.jpg")no-repeat;
+	background-size:cover;
+}
+
+.bags {
+	background: 
+	linear-gradient(
+		rgba(0,0,0,0.2),
+		rgba(0,0,0,0.2)),
+	url("../assets/bags-category.jpg")no-repeat;
+	background-size:cover;
+}
+
+.womens {
+	background: 
+	linear-gradient(
+		rgba(0,0,0,0.2),
+		rgba(0,0,0,0.2)),
+	url("../assets/womens-category.jpg")no-repeat;
+	background-size:cover;
+}
