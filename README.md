@@ -1,4 +1,4 @@
-ALOHA
+ALOHA - PART 2
 
 Built With:
 - HTML5 & CSS3
