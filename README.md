@@ -9,3 +9,6 @@ Built With:
 Summary:
 Used JavaScript, JQuery to enhance the usability of an ecommerce website. 
 Incorporated the usage of a bxslider to create a respinsonive slider for the different products featured.
+
+Link to Live Version:
+https://vanditatomer.github.io/Aloha-Part-2/
